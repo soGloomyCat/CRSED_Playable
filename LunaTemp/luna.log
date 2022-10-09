@@ -1,0 +1,441 @@
+report@config:load 35.81
+Authorized using stored user info.
+report@account:authorize 8.85
+stderr: "rm" �� ���� ����७��� ��� ���譥�
+��������, �ᯮ��塞�� �ணࠬ��� ��� ������ 䠩���.
+
+Exporting assets from Unity.....................................
+
+[ Stage1 ] Assets exported from Unity and staged for further processing
+report@unity:export 34293.65
+report@config:load 35.38
+Using D:/Program Files/MyGames/CRSEDPlayableAd(Repack)/Assets/TextMesh Pro/Fonts/LiberationSans.ttf file to generate an atlas for LiberationSans[28488] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Combined 97 glyphs into bitmap texture at D:/Program Files/MyGames/CRSEDPlayableAd(Repack)/LunaTemp/stage1/tmp/fonts/LiberationSans-28488/output_0.png (56kb)
+Found custom rules for texture Assets/_Project/Font/MANDATOR SDF.asset
+  {"maxWidth":512,"maxHeight":512,"format":"webp","compression":"none","quality":30,"script":"","ext":"","name":"Assets/_Project/Font/MANDATOR SDF.asset","isOverride":true}
+Found custom rules for texture Assets/Sources/Font/MANDATOR SDF.asset
+  {"maxWidth":512,"maxHeight":512,"format":"webp","compression":"none","quality":30,"script":"","ext":"","name":"Assets/Sources/Font/MANDATOR SDF.asset","isOverride":true}
+Found custom rules for texture Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  {"maxWidth":512,"maxHeight":512,"format":"webp","compression":"none","quality":30,"script":"","ext":"","name":"Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset","isOverride":true}
+Found custom rules for texture Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  {"maxWidth":512,"maxHeight":512,"format":"webp","compression":"none","quality":30,"script":"","ext":"","name":"Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset","isOverride":true}
+Resources:
+{}
+report@assets:stage2 18586.20
+report@assets:stage3 1695.38
+[ Stage2 ] Assets postprocessed and bundled successfully
+report@config:unity 0.52
+report@config:load 37.30
+report@config:unity 2.95
+report@code:compose 131.19
+Authorized using stored user info.
+report@account:authorize 4.36
+Microsoft (R) Build Engine ���ᨨ 16.11.2+f32259642 ��� .NET Framework
+(C) ��௮��� �������� (Microsoft Corporation). �� �ࠢ� ���饭�.
+
+
+���ઠ ���� 09.10.2022 20:58:40.
+
+�஥�� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" � 㧫� 1 (楫��� ��ꥪ�� Rebuild).
+
+CoreClean:
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Cinemachine.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" 㤠�����.
+
+  ���� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" 㤠�����.
+
+GenerateTargetFrameworkMonikerAttribute:
+������� ��ꥪ� "GenerateTargetFrameworkMonikerAttribute" �ய�᪠����, ⠪ ��� �� ��室�� 䠩�� ���㠫�� �� �⭮襭�� � �室��.
+
+CoreCompile:
+
+  D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2020;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2020_3;UNITY_2020_3_22 /highentropyva+ /reference:C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.23-luna\lib\net40\Bridge.dll /reference:C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll /reference:C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll /reference:C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\com.unity.cinemachine\2.4.0\Cinemachine.dll /reference:C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\DOTween.1.2.235\lib\net40\DOTween.dll /reference:C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll /reference:C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll /reference:C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll /reference:C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll /reference:C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll /reference:C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll /reference:C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll /reference:C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll /reference:C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /utf8output /langversion:7.2 "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\AnimatedModel.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Bullet.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\CameraFovChanger.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\CameraFovList.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Cameras.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Enemies\Enemies.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Enemies\Enemy.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Enemies\EnemyAnimatedModel.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Girl.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Path.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\PathPoint.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\PulseTransform.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\UISwitcher.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Wheel\WheelDirector.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Wheel\WheelRotator.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Luna Terrain Exporter\Scripts\ExportTerrain.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleEPOOutline.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\AnimationHandler.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\CameraHandler.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EffectHandler.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\Enemy.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EnemyPool.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\JumpHandler.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ResolutionHandler.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\Stalker.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\StartCamera.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\UIHandler.cs" "D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\TurnOnAfterSeconds.cs" Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\JumpHandler.cs(9,40): warning CS0649: ���� "JumpHandler._spawnPoint" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\CameraFovList.cs(41,38): warning CS0649: ���� "CameraFov._landscape" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� 0. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(13,49): warning CS0649: ���� "Director._teleportEffectStatic" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(18,37): warning CS0649: ���� "ChooseHandler._chooseButton" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(12,57): warning CS0649: ���� "ChooseHandler._ericSettings" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(17,36): warning CS0649: ���� "ChooseHandler._viperSceneBackground" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EnemyPool.cs(7,42): warning CS0649: ���� "EnemyPool._enemies" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\CameraHandler.cs(11,55): warning CS0649: ���� "CameraHandler._fifthCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(12,42): warning CS0649: ���� "Director._enemies" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\UISwitcher.cs(11,41): warning CS0649: ���� "UISwitcher._powerButton" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Girl.cs(14,44): warning CS0649: ���� "Girl._shootPoint" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(14,41): warning CS0649: ���� "ChooseHandler._ericScene" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\CameraFovList.cs(10,46): warning CS0649: ���� "CameraFovList._fovList" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\CameraHandler.cs(6,42): warning CS0649: ���� "CameraHandler._jumpHandler" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EffectHandler.cs(6,40): warning CS0649: ���� "EffectHandler._canvas" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Girl.cs(11,45): warning CS0649: ���� "Girl._model" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(11,45): warning CS0649: ���� "Director._uiSwitcher" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(16,49): warning CS0649: ���� "Director._timings" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\StartCamera.cs(10,37): warning CS0649: ���� "StartCamera._canvas" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Wheel\WheelDirector.cs(11,47): warning CS0649: ���� "WheelDirector._wheelRotator" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\StartCamera.cs(8,52): warning CS0649: ���� "StartCamera._path" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(10,42): warning CS0649: ���� "Director._cameras" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EffectHandler.cs(7,45): warning CS0649: ���� "EffectHandler._jumpSmoke" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\CameraFovList.cs(40,45): warning CS0649: ���� "CameraFov._cameraType" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� . [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(15,36): warning CS0649: ���� "ChooseHandler._ericSceneBackground" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(20,36): warning CS0649: ���� "ChooseHandler._frame" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Cameras.cs(12,48): warning CS0649: ���� "Cameras._camerasFovList" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\UIHandler.cs(10,36): warning CS0649: ���� "UIHandler._fade" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(16,41): warning CS0649: ���� "ChooseHandler._viperScene" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\AnimationHandler.cs(12,42): warning CS0649: ���� "AnimationHandler._jumpHandler" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Enemies\Enemy.cs(8,41): warning CS0649: ���� "Enemy._bulletTemplate" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\CameraHandler.cs(10,55): warning CS0649: ���� "CameraHandler._fourthCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(19,42): warning CS0649: ���� "ChooseHandler._characters" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Bullet.cs(9,40): warning CS0649: ���� "Bullet._flySpeed" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� 0. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Enemies\Enemies.cs(7,40): warning CS0649: ���� "Enemies._enemyRight" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\JumpHandler.cs(11,40): warning CS0649: ���� "JumpHandler._finalPoint" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ResolutionHandler.cs(8,55): warning CS0649: ���� "ResolutionHandler._fifthCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Girl.cs(12,49): warning CS0649: ���� "Girl._teleportEffect" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(13,57): warning CS0649: ���� "ChooseHandler._viperSettings" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EffectHandler.cs(10,40): warning CS0649: ���� "EffectHandler._enemyPool" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Girl.cs(9,39): warning CS0649: ���� "Girl._path" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\UIHandler.cs(7,42): warning CS0649: ���� "UIHandler._jumpHandler" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\UIHandler.cs(9,37): warning CS0649: ���� "UIHandler._cTAButton" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ResolutionHandler.cs(6,55): warning CS0649: ���� "ResolutionHandler._secondCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Cameras.cs(95,45): warning CS0649: ���� "CreoCamera._type" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� . [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(116,40): warning CS0649: ���� "CameraTiming._timing" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� 0. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\CameraFovList.cs(42,38): warning CS0649: ���� "CameraFov._portrait" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� 0. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EffectHandler.cs(5,42): warning CS0649: ���� "EffectHandler._jumpHandler" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Cameras.cs(94,59): warning CS0649: ���� "CreoCamera._camera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(9,39): warning CS0649: ���� "Director._girl" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\UISwitcher.cs(14,45): warning CS0649: ���� "UISwitcher._finalPanel" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Cameras.cs(11,47): warning CS0649: ���� "Cameras._cameras" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\UISwitcher.cs(13,41): warning CS0649: ���� "UISwitcher._playButton" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\Stalker.cs(7,40): warning CS0649: ���� "Stalker._target" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\CameraHandler.cs(7,55): warning CS0649: ���� "CameraHandler._firstCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EffectHandler.cs(9,45): warning CS0649: ���� "EffectHandler._smoke" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Wheel\WheelRotator.cs(10,38): warning CS0649: ���� "WheelRotator._rotationCount" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� 0. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Enemies\Enemy.cs(9,44): warning CS0649: ���� "Enemy._shootPoint" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\UIHandler.cs(11,41): warning CS0649: ���� "UIHandler._finalPanel" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EffectHandler.cs(8,45): warning CS0649: ���� "EffectHandler._light" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\StartCamera.cs(7,55): warning CS0649: ���� "StartCamera._startCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Bullet.cs(8,40): warning CS0649: ���� "Bullet._flyTime" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� 0. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\JumpHandler.cs(10,40): warning CS0649: ���� "JumpHandler._enemy" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Girl.cs(10,48): warning CS0649: ���� "Girl._animatedModel" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\StartCamera.cs(9,55): warning CS0649: ���� "StartCamera._player" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\CameraHandler.cs(8,55): warning CS0649: ���� "CameraHandler._secondCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\JumpHandler.cs(8,40): warning CS0649: ���� "JumpHandler._secondLandJump" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Wheel\WheelDirector.cs(12,41): warning CS0649: ���� "WheelDirector._button" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EffectHandler.cs(11,36): warning CS0649: ���� "EffectHandler._specialEnemy" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\UISwitcher.cs(12,41): warning CS0649: ���� "UISwitcher._attackButton" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Girl.cs(13,41): warning CS0649: ���� "Girl._bulletTemplate" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(11,47): warning CS0649: ���� "ChooseHandler._brain" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\PathPoint.cs(7,40): warning CS0649: ���� "PathPoint._time" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� 0. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Cameras.cs(13,51): warning CS0649: ���� "Cameras._cameraFovChanger" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Enemies\Enemy.cs(10,49): warning CS0649: ���� "Enemy._bloodEffect" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Enemies\Enemy.cs(7,53): warning CS0649: ���� "Enemy._animatedModel" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\UIHandler.cs(8,37): warning CS0649: ���� "UIHandler._powerButton" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ResolutionHandler.cs(7,55): warning CS0649: ���� "ResolutionHandler._fourthCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Enemies\Enemies.cs(8,40): warning CS0649: ���� "Enemies._enemyLeft" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\CameraHandler.cs(9,55): warning CS0649: ���� "CameraHandler._thirdCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\JumpHandler.cs(7,40): warning CS0649: ���� "JumpHandler._landJump" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(117,45): warning CS0649: ���� "CameraTiming._cameraType" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� . [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Path.cs(8,46): warning CS0649: ���� "Path._points" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  CompilerServer: server - server processed compilation - 463fb0c8-8091-4009-b1eb-4466dcb98477
+
+_CopyFilesMarkedCopyLocal:
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.23-luna\lib\net40\Bridge.dll" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\DOTween.1.2.235\lib\net40\DOTween.dll" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\com.unity.cinemachine\2.4.0\Cinemachine.dll" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Cinemachine.dll".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.23-luna\lib\net40\Bridge.xml" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.xml" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.xml" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.xml" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.xml" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.xml" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.xml" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.xml" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  �������� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete", ⠪ ��� �뫮 ������ "AlwaysCreate".
+
+CopyFilesToOutputDirectory:
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Scripts -> C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+
+  ����஢���� 䠩�� �� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" � "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+BridgeNetCompilerTask:
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+���ઠ �஥�� "C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" �����襭� (楫��� ��ꥪ�� Rebuild).
+
+
+
+���ઠ �ᯥ譮 �����襭�.
+
+
+
+"C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (楫���� ��ꥪ� Rebuild ) (1) ->
+(������� ��ꥪ� CoreCompile) -> 
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\JumpHandler.cs(9,40): warning CS0649: ���� "JumpHandler._spawnPoint" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\CameraFovList.cs(41,38): warning CS0649: ���� "CameraFov._landscape" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� 0. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(13,49): warning CS0649: ���� "Director._teleportEffectStatic" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(18,37): warning CS0649: ���� "ChooseHandler._chooseButton" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(12,57): warning CS0649: ���� "ChooseHandler._ericSettings" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(17,36): warning CS0649: ���� "ChooseHandler._viperSceneBackground" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EnemyPool.cs(7,42): warning CS0649: ���� "EnemyPool._enemies" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\CameraHandler.cs(11,55): warning CS0649: ���� "CameraHandler._fifthCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(12,42): warning CS0649: ���� "Director._enemies" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\UISwitcher.cs(11,41): warning CS0649: ���� "UISwitcher._powerButton" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Girl.cs(14,44): warning CS0649: ���� "Girl._shootPoint" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(14,41): warning CS0649: ���� "ChooseHandler._ericScene" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\CameraFovList.cs(10,46): warning CS0649: ���� "CameraFovList._fovList" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\CameraHandler.cs(6,42): warning CS0649: ���� "CameraHandler._jumpHandler" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EffectHandler.cs(6,40): warning CS0649: ���� "EffectHandler._canvas" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Girl.cs(11,45): warning CS0649: ���� "Girl._model" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(11,45): warning CS0649: ���� "Director._uiSwitcher" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(16,49): warning CS0649: ���� "Director._timings" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\StartCamera.cs(10,37): warning CS0649: ���� "StartCamera._canvas" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Wheel\WheelDirector.cs(11,47): warning CS0649: ���� "WheelDirector._wheelRotator" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\StartCamera.cs(8,52): warning CS0649: ���� "StartCamera._path" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(10,42): warning CS0649: ���� "Director._cameras" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EffectHandler.cs(7,45): warning CS0649: ���� "EffectHandler._jumpSmoke" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\CameraFovList.cs(40,45): warning CS0649: ���� "CameraFov._cameraType" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� . [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(15,36): warning CS0649: ���� "ChooseHandler._ericSceneBackground" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(20,36): warning CS0649: ���� "ChooseHandler._frame" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Cameras.cs(12,48): warning CS0649: ���� "Cameras._camerasFovList" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\UIHandler.cs(10,36): warning CS0649: ���� "UIHandler._fade" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(16,41): warning CS0649: ���� "ChooseHandler._viperScene" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\AnimationHandler.cs(12,42): warning CS0649: ���� "AnimationHandler._jumpHandler" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Enemies\Enemy.cs(8,41): warning CS0649: ���� "Enemy._bulletTemplate" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\CameraHandler.cs(10,55): warning CS0649: ���� "CameraHandler._fourthCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(19,42): warning CS0649: ���� "ChooseHandler._characters" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Bullet.cs(9,40): warning CS0649: ���� "Bullet._flySpeed" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� 0. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Enemies\Enemies.cs(7,40): warning CS0649: ���� "Enemies._enemyRight" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\JumpHandler.cs(11,40): warning CS0649: ���� "JumpHandler._finalPoint" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ResolutionHandler.cs(8,55): warning CS0649: ���� "ResolutionHandler._fifthCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Girl.cs(12,49): warning CS0649: ���� "Girl._teleportEffect" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(13,57): warning CS0649: ���� "ChooseHandler._viperSettings" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EffectHandler.cs(10,40): warning CS0649: ���� "EffectHandler._enemyPool" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Girl.cs(9,39): warning CS0649: ���� "Girl._path" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\UIHandler.cs(7,42): warning CS0649: ���� "UIHandler._jumpHandler" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\UIHandler.cs(9,37): warning CS0649: ���� "UIHandler._cTAButton" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ResolutionHandler.cs(6,55): warning CS0649: ���� "ResolutionHandler._secondCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Cameras.cs(95,45): warning CS0649: ���� "CreoCamera._type" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� . [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(116,40): warning CS0649: ���� "CameraTiming._timing" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� 0. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\CameraFovList.cs(42,38): warning CS0649: ���� "CameraFov._portrait" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� 0. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EffectHandler.cs(5,42): warning CS0649: ���� "EffectHandler._jumpHandler" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Cameras.cs(94,59): warning CS0649: ���� "CreoCamera._camera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(9,39): warning CS0649: ���� "Director._girl" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\UISwitcher.cs(14,45): warning CS0649: ���� "UISwitcher._finalPanel" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Cameras.cs(11,47): warning CS0649: ���� "Cameras._cameras" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\UISwitcher.cs(13,41): warning CS0649: ���� "UISwitcher._playButton" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\Stalker.cs(7,40): warning CS0649: ���� "Stalker._target" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\CameraHandler.cs(7,55): warning CS0649: ���� "CameraHandler._firstCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EffectHandler.cs(9,45): warning CS0649: ���� "EffectHandler._smoke" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Wheel\WheelRotator.cs(10,38): warning CS0649: ���� "WheelRotator._rotationCount" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� 0. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Enemies\Enemy.cs(9,44): warning CS0649: ���� "Enemy._shootPoint" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\UIHandler.cs(11,41): warning CS0649: ���� "UIHandler._finalPanel" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EffectHandler.cs(8,45): warning CS0649: ���� "EffectHandler._light" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\StartCamera.cs(7,55): warning CS0649: ���� "StartCamera._startCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Bullet.cs(8,40): warning CS0649: ���� "Bullet._flyTime" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� 0. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\JumpHandler.cs(10,40): warning CS0649: ���� "JumpHandler._enemy" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Girl.cs(10,48): warning CS0649: ���� "Girl._animatedModel" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\StartCamera.cs(9,55): warning CS0649: ���� "StartCamera._player" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\CameraHandler.cs(8,55): warning CS0649: ���� "CameraHandler._secondCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\JumpHandler.cs(8,40): warning CS0649: ���� "JumpHandler._secondLandJump" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Wheel\WheelDirector.cs(12,41): warning CS0649: ���� "WheelDirector._button" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\EffectHandler.cs(11,36): warning CS0649: ���� "EffectHandler._specialEnemy" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\UISwitcher.cs(12,41): warning CS0649: ���� "UISwitcher._attackButton" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Girl.cs(13,41): warning CS0649: ���� "Girl._bulletTemplate" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ChooseHandler.cs(11,47): warning CS0649: ���� "ChooseHandler._brain" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\PathPoint.cs(7,40): warning CS0649: ���� "PathPoint._time" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� 0. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Cameras.cs(13,51): warning CS0649: ���� "Cameras._cameraFovChanger" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Enemies\Enemy.cs(10,49): warning CS0649: ���� "Enemy._bloodEffect" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Enemies\Enemy.cs(7,53): warning CS0649: ���� "Enemy._animatedModel" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\UIHandler.cs(8,37): warning CS0649: ���� "UIHandler._powerButton" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\ResolutionHandler.cs(7,55): warning CS0649: ���� "ResolutionHandler._fourthCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Enemies\Enemies.cs(8,40): warning CS0649: ���� "Enemies._enemyLeft" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\CameraHandler.cs(9,55): warning CS0649: ���� "CameraHandler._thirdCamera" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Sources\Scripts\JumpHandler.cs(7,40): warning CS0649: ���� "JumpHandler._landJump" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Director.cs(117,45): warning CS0649: ���� "CameraTiming._cameraType" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� . [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\_Project\Scripts\Path.cs(8,46): warning CS0649: ���� "Path._points" ����� �� ��ᢠ������� ���祭��, ���⮬� ��� �ᥣ�� �㤥� ����� ���祭�� �� 㬮�砭�� null. [C:\Users\tonyh\Desktop\GamDev\Add-Ons\Unity\Luna\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+    �।�०�����: 83
+    �訡��: 0
+
+��諮 �६��� 00:00:08.40
+
+Source code compiled successfully!
+Diagnostics gathered successfully
+report@code:build 11677.30
+report@diagnostics:verify 0.55
+report@diagnostics:upload 1237.63
+report@code:stage 6571.31
+[ Stage3 ] Code compiled and bundled successfully.
+report@code:bundle 19669.03
+report@package:stage 1731.14
+[ Stage4 ] Target platform: develop
+[ Stage4 ] Package bundled successfully
+report@assets:stats 0.23
