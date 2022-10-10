@@ -9,6 +9,7 @@ public class ChooseHandler : MonoBehaviour
     private const int CirclesCount = 20;
 
     [SerializeField] private CinemachineBrain _brain;
+    [SerializeField] private SoundHandler _soundHandler;
     [SerializeField] private CinemachineBlenderSettings _ericSettings;
     [SerializeField] private CinemachineBlenderSettings _viperSettings;
     [SerializeField] private GameObject _ericScene;
@@ -16,7 +17,7 @@ public class ChooseHandler : MonoBehaviour
     [SerializeField] private GameObject _viperScene;
     [SerializeField] private Image _viperSceneBackground;
     [SerializeField] private Button _chooseButton;
-    [SerializeField] private List<Image> _characters;
+    [SerializeField] private List<GameObject> _characters;
     [SerializeField] private Image _frame;
 
     private Coroutine _coroutine;
@@ -33,6 +34,8 @@ public class ChooseHandler : MonoBehaviour
 
     private void PrepairChooseCharacter()
     {
+        _chooseButton.gameObject.SetActive(false);
+
         if (_coroutine != null)
             StopCoroutine(_coroutine);
 
@@ -43,7 +46,7 @@ public class ChooseHandler : MonoBehaviour
     {
         int currentCard;
         WaitForSeconds firstWaiter = new WaitForSeconds(0.2f);
-        WaitForSecondsRealtime secondWaiter = new WaitForSecondsRealtime(1.15f);
+        WaitForSecondsRealtime secondWaiter = new WaitForSecondsRealtime(1f);
         int currentCircle = 1;
         currentCard = Random.Range(0, _characters.Count);
 
@@ -68,17 +71,20 @@ public class ChooseHandler : MonoBehaviour
                 _brain.m_CustomBlends = _ericSettings;
                 _ericSceneBackground.gameObject.SetActive(true);
                 _ericScene.SetActive(true);
+                Destroy(_viperScene);
                 break;
             case 1:
                 _brain.m_CustomBlends = _viperSettings;
                 _viperSceneBackground.gameObject.SetActive(true);
                 _viperScene.SetActive(true);
+                Destroy(_ericScene);
                 break;
             default:
                 break;
         }
 
         yield return secondWaiter;
+        _soundHandler.PlaySound();
         gameObject.SetActive(false);
         Time.timeScale = 1;
     }

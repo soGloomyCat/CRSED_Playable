@@ -1,1 +1,0 @@
-{"id":"-2167968","path":"Assets/Sources/Animations/BackAnimation.anim","assetBundleId":"-1","data":["BackAnimation",0,0,1,[["","UnityEngine.RectTransform","m_LocalScale.x",[0,28],[]],["","UnityEngine.RectTransform","m_LocalScale.y",[28,28],[]],["","UnityEngine.RectTransform","m_LocalScale.z",[56,28],[]],["","UnityEngine.CanvasGroup","m_Alpha",[84,42],[]]],[],true]}

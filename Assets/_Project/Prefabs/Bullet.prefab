@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 4226919555501474739}
   - component: {fileID: 4896534288261783912}
   - component: {fileID: 8124853659948310059}
-  - component: {fileID: 7039265263019971913}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -82,19 +81,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!135 &7039265263019971913
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1788930369152718293}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &8248010391436830750
 GameObject:
   m_ObjectHideFlags: 0
@@ -141,7 +127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _flyTime: 3
-  _flySpeed: 13
+  _flySpeed: 5
 --- !u!1001 &7070831893713492807
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -198,6 +184,18 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 19869376, guid: 29b0b627c85f5e94b83fbe9f44272436, type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 19869376, guid: 29b0b627c85f5e94b83fbe9f44272436, type: 3}
+      propertyPath: InitialModule.startSize.minScalar
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 19869376, guid: 29b0b627c85f5e94b83fbe9f44272436, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.a
+      value: 0.49803922
+      objectReference: {fileID: 0}
+    - target: {fileID: 19869376, guid: 29b0b627c85f5e94b83fbe9f44272436, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b
       value: 0.6415094
       objectReference: {fileID: 0}
@@ -210,6 +208,10 @@ PrefabInstance:
       value: 0.6415094
       objectReference: {fileID: 0}
     - target: {fileID: 19869376, guid: 29b0b627c85f5e94b83fbe9f44272436, type: 3}
+      propertyPath: InitialModule.startColor.minColor.a
+      value: 0.5019608
+      objectReference: {fileID: 0}
+    - target: {fileID: 19869376, guid: 29b0b627c85f5e94b83fbe9f44272436, type: 3}
       propertyPath: InitialModule.startColor.minColor.b
       value: 0.8396226
       objectReference: {fileID: 0}
@@ -220,6 +222,10 @@ PrefabInstance:
     - target: {fileID: 19869376, guid: 29b0b627c85f5e94b83fbe9f44272436, type: 3}
       propertyPath: InitialModule.startColor.minColor.r
       value: 0.8396226
+      objectReference: {fileID: 0}
+    - target: {fileID: 19869376, guid: 29b0b627c85f5e94b83fbe9f44272436, type: 3}
+      propertyPath: EmissionModule.rateOverDistance.scalar
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 19988780, guid: 29b0b627c85f5e94b83fbe9f44272436, type: 3}
       propertyPath: m_Materials.Array.data[0]

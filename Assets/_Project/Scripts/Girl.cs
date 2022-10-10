@@ -9,7 +9,6 @@ namespace ScenarioFour
         [SerializeField] private Path _path;
         [SerializeField] private AnimatedModel _animatedModel;
         [SerializeField] private GameObject _model;
-        [SerializeField] private ParticleSystem _teleportEffect;
         [SerializeField] private Bullet _bulletTemplate;
         [SerializeField] private Transform _shootPoint;
 
@@ -50,7 +49,6 @@ namespace ScenarioFour
         public void Teleport(out float teleportTime)
         {
             _model.SetActive(false);
-            _teleportEffect.Play();
 
             PathPoint third = _path.Third;
             PathPoint fourth = _path.Fourth;
@@ -63,7 +61,6 @@ namespace ScenarioFour
             sequence.AppendCallback(() => _animatedModel.Jump());
             sequence.Append(transform.DOLookAt(-Vector3.forward, 0.6f));
             sequence.Join(transform.DOMove(fourth.transform.position, fourth.Time).SetEase(Ease.Linear));
-            sequence.AppendCallback(() => _teleportEffect.Stop());
             sequence.AppendInterval(.6f);
             sequence.OnComplete(() => SecondPartDone?.Invoke());
         }

@@ -1,0 +1,71 @@
+doctype html
+html
+    head
+        block meta
+            meta( charset="utf-8" )
+            meta( http-equiv="Content-Type", content="text/html; charset=utf-8" )
+            meta( name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" )
+
+        block style
+            style
+                include ../css/default.css
+
+        block config
+            include ../pug/config
+
+        block tools
+            include ../pug/tools
+
+        block libraries
+            if libraries
+                script( src = libraries.src )
+            else
+                script
+                    include ../../resources/js/pi.js
+
+                if compress && compress.enabled
+                    if compress.useLegacyBrotli
+                        script
+                            include ../js/unbrotli-legacy.min.js
+                    else
+                        script
+                            include ../js/unbrotli.min.js
+
+        script.
+            window.DEBUG = document.location.search.includes( 'debug' );
+            window.TRACE = false;
+            window.DEVELOP = false;
+            window.TESTS = false;
+            window.FORCE_STABLE_RANDOM_SEED = false;
+
+        include ./pi
+        include ./compress
+
+        block scripts
+            <!-- htmlmin:ignore -->
+            if resources
+                for resource in resources
+                    if resource && resource.content
+                        script !{ resource.content }
+                    else if resource
+                        script( src = resource.src defer )
+            <!-- htmlmin:ignore -->
+
+        <!-- htmlmin:ignore -->
+    <!-- htmlmin:ignore -->
+
+    body
+        block body
+            include ./body
+
+            block content
+                script.
+                    window.addEventListener( 'luna:build', function() {
+                        window.pi.logLoaded();
+                        window.dispatchEvent( new Event( 'luna:start' ) );
+                    } );
+
+            block runtime
+
+    <!-- htmlmin:ignore -->
+<!-- htmlmin:ignore -->

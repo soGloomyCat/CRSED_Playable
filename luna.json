@@ -2,7 +2,7 @@
     "version": "4.0.0",
     "projectId": "33295ed8-87c8-46f3-914c-5d52dbfa511a",
     "applicationID": 13417,
-    "creativeName": "Eric_draft",
+    "creativeName": "FinalDraft_v1",
     "pgServer": "EU",
     "unity": {
         "scripts": {
@@ -28,6 +28,14 @@
                 "resources"
             ],
             "excludes": [
+                "Assets/Sources/Textures/Orc_hummer_Metallic.tga",
+                "Assets/Terrain-Exporter-main/",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/TextMesh Pro/Resources/Sprite Assets/",
                 "Assets/ALP8310_Assets/Nature Package - Forest Environment_/scripts/ALP8310 Controller Global/DE_ALP8310Controller.asmdef",
                 "Assets/New Terrain 1.asset",
                 "Assets/New Terrain.asset",
@@ -36,8 +44,7 @@
                 "**/Editor/",
                 "Assets/KrisDevelopment/",
                 "Assets/Sources/Character_Barbarian/Textures/Barbarian_Normal.tga",
-                "Assets/Sources/Character_Barbarian/Textures/Barbarian_Metallic.tga",
-                "Assets/Sources/Textures/Orc_hummer_Metallic.tga"
+                "Assets/Sources/Character_Barbarian/Textures/Barbarian_Metallic.tga"
             ],
             "includes": [
                 "Assets/Resources/DOTweenSettings.asset",
@@ -110,17 +117,17 @@
             },
             {
                 "name": "particle-system",
-                "excluded": true,
+                "excluded": false,
                 "forceIncluded": false
             },
             {
                 "name": "reflection",
-                "excluded": true,
+                "excluded": false,
                 "forceIncluded": false
             },
             {
                 "name": "prefabs",
-                "excluded": true,
+                "excluded": false,
                 "forceIncluded": false
             }
         ],
@@ -6225,24 +6232,12 @@
                 "excluded": true
             },
             {
-                "name": "PlaceForTests.WheelRotator",
-                "excluded": true
-            },
-            {
-                "name": "ScenarioFour.WheelDirector",
-                "excluded": true
-            },
-            {
                 "name": "DG.Tweening.DOTweenCYInstruction",
                 "excluded": true
             },
             {
                 "name": "ScenarioFour.CameraType",
                 "excluded": false
-            },
-            {
-                "name": "ScenarioFour.SceneType",
-                "excluded": true
             },
             {
                 "name": "DG.Tweening.Core.ABSSequentiable",
@@ -6267,6 +6262,10 @@
             {
                 "name": "DG.Tweening.Plugins.Core.ABSTweenPlugin$3",
                 "excluded": false
+            },
+            {
+                "name": "PlayerMove",
+                "excluded": true
             }
         ],
         "unusedMethods": [
@@ -19444,7 +19443,7 @@
                     },
                     {
                         "name": "OnDestroy",
-                        "excluded": true
+                        "excluded": false
                     }
                 ]
             },
@@ -24000,7 +23999,7 @@
                     },
                     {
                         "name": "OnDestroy",
-                        "excluded": true
+                        "excluded": false
                     },
                     {
                         "name": "LoadFontAsset",
@@ -27498,7 +27497,7 @@
                     },
                     {
                         "name": "OnDestroy",
-                        "excluded": true
+                        "excluded": false
                     },
                     {
                         "name": "OnTransformParentChanged",
@@ -27814,7 +27813,7 @@
                     },
                     {
                         "name": "OnDestroy",
-                        "excluded": true
+                        "excluded": false
                     },
                     {
                         "name": "OnValidate",
@@ -28326,6 +28325,10 @@
                     },
                     {
                         "name": "Tick",
+                        "excluded": false
+                    },
+                    {
+                        "name": "Tick\",this)}this.c$-=t;if(this.c$<=0){pc.Application.getApplication().events.off(\"update",
                         "excluded": false
                     }
                 ]
@@ -31943,6 +31946,16 @@
                         "excluded": true
                     }
                 ]
+            },
+            {
+                "className": "SoundHandler",
+                "staticMethods": [],
+                "instanceMethods": [
+                    {
+                        "name": "PlaySound",
+                        "excluded": false
+                    }
+                ]
             }
         ],
         "stubberDataList": [],
@@ -32047,6 +32060,66 @@
                         "script": "",
                         "ext": "",
                         "name": "Assets/_Project/Font/MANDATOR SDF.asset"
+                    },
+                    {
+                        "maxWidth": 1024,
+                        "maxHeight": 1024,
+                        "format": "webp",
+                        "compression": "quantSize",
+                        "quality": 75,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/Urban buildings Pack 02/Textures/Traffic-Car-Atlas.psd"
+                    },
+                    {
+                        "maxWidth": 4096,
+                        "maxHeight": 256,
+                        "format": "webp",
+                        "compression": "quantSize",
+                        "quality": 75,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/Urban buildings Pack 02/BackGrounds/Materials/Back-01.png"
+                    },
+                    {
+                        "maxWidth": 1920,
+                        "maxHeight": 1080,
+                        "format": "webp",
+                        "compression": "quantSize",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/Sources/Sprites/Back.jpg"
+                    },
+                    {
+                        "maxWidth": 512,
+                        "maxHeight": 512,
+                        "format": "webp",
+                        "compression": "quantSize",
+                        "quality": 30,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/Sources/Sprites/ground.jpg"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "webp",
+                        "compression": "quantSize",
+                        "quality": 30,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/Urban buildings Pack 02/Textures/Trees-01.png"
+                    },
+                    {
+                        "maxWidth": 256,
+                        "maxHeight": 256,
+                        "format": "webp",
+                        "compression": "quantSize",
+                        "quality": 30,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/Sources/Sprites/BackFrame.png"
                     }
                 ]
             },
@@ -32054,21 +32127,32 @@
                 "default": {
                     "channels": 1,
                     "startTime": "00:00.000",
-                    "endTime": "00:00.000",
-                    "lengthInSeconds": 0.0,
-                    "bitrate": 128,
+                    "endTime": "01:30.000",
+                    "lengthInSeconds": 90.0,
+                    "bitrate": 32,
                     "script": "",
                     "ext": ""
                 },
-                "overrides": []
+                "overrides": [
+                    {
+                        "channels": 1,
+                        "startTime": "00:00.000",
+                        "endTime": "01:04.158",
+                        "lengthInSeconds": 64.15799713134766,
+                        "bitrate": 32,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/Sources/Sound/Fonovaya_muzyka_dinamichnaya_-_Na_video_(Gybka.com).mp3"
+                    }
+                ]
             },
             "font": {
                 "default": {
                     "data": {
                         "alphabet": " §1234567890-=qwertyuiop[]asdfghjkl;'\\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:\"|~ZXCVBNM<>?",
                         "size": 64,
-                        "textureWidth": 1024,
-                        "textureHeight": 1024
+                        "textureWidth": 512,
+                        "textureHeight": 512
                     }
                 },
                 "overrides": []
@@ -32088,7 +32172,12 @@
                 "default": {
                     "halfPrecision": true
                 },
-                "overrides": []
+                "overrides": [
+                    {
+                        "halfPrecision": true,
+                        "name": "Assets/Sources/Models/Eric.fbx"
+                    }
+                ]
             },
             "animations": {
                 "default": {
