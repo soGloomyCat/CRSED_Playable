@@ -121,7 +121,7 @@
       }
     },
     "uk.lunalabs.luna": {
-      "version": "file:C:/Users/tonyh/Desktop/GamDev/Add-Ons/Unity/Luna/scripts",
+      "version": "file:../LunaPlayable/scripts",
       "depth": 0,
       "source": "local",
       "dependencies": {}
