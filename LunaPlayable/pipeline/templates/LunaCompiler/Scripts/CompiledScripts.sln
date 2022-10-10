@@ -1,0 +1,64 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scripts", "Scripts.csproj", "{ADC34E84-FDFF-4146-ABAE-0F40B5FE3AA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739BEFB2-C527-4FF6-A6C5-5A155D651F44}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{739BEFB2-C527-4FF6-A6C5-5A155D651F44}.Debug|Any CPU.Build.0 = Debug|x86
+		{739BEFB2-C527-4FF6-A6C5-5A155D651F44}.Release|Any CPU.ActiveCfg = Release|x86
+		{739BEFB2-C527-4FF6-A6C5-5A155D651F44}.Release|Any CPU.Build.0 = Release|x86
+		{739BEFB2-C527-4FF6-A6C5-5A155D651F44}.Debug|x86.ActiveCfg = Debug|x86
+		{739BEFB2-C527-4FF6-A6C5-5A155D651F44}.Debug|x86.Build.0 = Debug|x86
+		{739BEFB2-C527-4FF6-A6C5-5A155D651F44}.Release|x86.ActiveCfg = Release|x86
+		{739BEFB2-C527-4FF6-A6C5-5A155D651F44}.Release|x86.Build.0 = Release|x86
+		{ADC34E84-FDFF-4146-ABAE-0F40B5FE3AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC34E84-FDFF-4146-ABAE-0F40B5FE3AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC34E84-FDFF-4146-ABAE-0F40B5FE3AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC34E84-FDFF-4146-ABAE-0F40B5FE3AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC34E84-FDFF-4146-ABAE-0F40B5FE3AA4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ADC34E84-FDFF-4146-ABAE-0F40B5FE3AA4}.Debug|x86.Build.0 = Debug|Any CPU
+		{ADC34E84-FDFF-4146-ABAE-0F40B5FE3AA4}.Release|x86.ActiveCfg = Release|Any CPU
+		{ADC34E84-FDFF-4146-ABAE-0F40B5FE3AA4}.Release|x86.Build.0 = Release|Any CPU
+		{5FB312D6-7298-43E3-B55D-23CBBEB947DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB312D6-7298-43E3-B55D-23CBBEB947DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB312D6-7298-43E3-B55D-23CBBEB947DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB312D6-7298-43E3-B55D-23CBBEB947DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB312D6-7298-43E3-B55D-23CBBEB947DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5FB312D6-7298-43E3-B55D-23CBBEB947DE}.Debug|x86.Build.0 = Debug|Any CPU
+		{5FB312D6-7298-43E3-B55D-23CBBEB947DE}.Release|x86.ActiveCfg = Release|Any CPU
+		{5FB312D6-7298-43E3-B55D-23CBBEB947DE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.scope = text/x-csharp
+		$1.FileWidth = 80
+		$1.TabsToSpaces = True
+		$0.CSharpFormattingPolicy = $2
+		$2.scope = text/x-csharp
+		$2.NewLinesForBracesInTypes = False
+		$2.NewLinesForBracesInMethods = False
+		$2.NewLinesForBracesInProperties = False
+		$2.NewLinesForBracesInAccessors = False
+		$2.NewLinesForBracesInAnonymousMethods = False
+		$2.NewLinesForBracesInControlBlocks = False
+		$2.NewLinesForBracesInAnonymousTypes = False
+		$2.NewLinesForBracesInObjectCollectionArrayInitializers = False
+		$2.NewLinesForBracesInLambdaExpressionBody = False
+		$2.NewLineForElse = False
+		$2.SpaceWithinMethodDeclarationParenthesis = True
+		$2.SpaceWithinMethodCallParentheses = True
+		$2.SpaceWithinCastParentheses = True
+		$2.SpaceWithinOtherParentheses = True
+		$2.SpaceWithinSquareBrackets = True
+		$0.DotNetNamingPolicy = $3
+	EndGlobalSection
+EndGlobal
