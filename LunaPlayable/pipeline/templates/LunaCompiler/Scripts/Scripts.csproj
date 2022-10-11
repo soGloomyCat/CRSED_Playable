@@ -141,9 +141,6 @@
   <Compile Include="D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\TurnOnAfterSeconds.cs">
     <Link>D\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\TurnOnAfterSeconds.cs</Link>
   </Compile>
-  <Compile Include="D:\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Urban buildings Pack 02\Player\PlayerMove.cs">
-    <Link>D\Program Files\MyGames\CRSEDPlayableAd(Repack)\Assets\Urban buildings Pack 02\Player\PlayerMove.cs</Link>
-  </Compile>
 </ItemGroup>
 <ItemGroup>
   <Reference Include="TextMeshPro">
