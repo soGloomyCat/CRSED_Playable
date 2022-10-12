@@ -9,8 +9,7 @@ namespace ScenarioFour
         [SerializeField] private Path _path;
         [SerializeField] private AnimatedModel _animatedModel;
         [SerializeField] private GameObject _model;
-        [SerializeField] private Bullet _bulletTemplate;
-        [SerializeField] private Transform _shootPoint;
+        [SerializeField] private ParticleSystem _muzzleFlashParticles;
 
         public event UnityAction FirstPartDone;
         public event UnityAction SecondPartDone;
@@ -91,8 +90,7 @@ namespace ScenarioFour
 
         private void OneShoot()
         {
-            Bullet bullet = Instantiate(_bulletTemplate, _shootPoint.position, Quaternion.identity);
-            bullet.Move(_shootPoint.forward);
+            _muzzleFlashParticles.Play();
         }
     }
 }
