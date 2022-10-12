@@ -2,7 +2,7 @@
     "version": "4.0.0",
     "projectId": "33295ed8-87c8-46f3-914c-5d52dbfa511a",
     "applicationID": 13417,
-    "creativeName": "FinalDraft_v2",
+    "creativeName": "Eric_v1",
     "pgServer": "EU",
     "unity": {
         "scripts": {
@@ -58,9 +58,11 @@
             ]
         },
         "scenes": [
-            "Assets/Sources/Scenes/SampleScene.unity"
+            "Assets/Scenes/Eric.unity"
         ],
-        "disabledScenes": [],
+        "disabledScenes": [
+            "Assets/Scenes/Viper.unity"
+        ],
         "startupScene": 0,
         "alphabeticalScenesOrder": false,
         "packages": {
@@ -31964,11 +31966,11 @@
         "rules": {
             "texture": {
                 "default": {
-                    "maxWidth": 512,
-                    "maxHeight": 512,
+                    "maxWidth": 1024,
+                    "maxHeight": 1024,
                     "format": "webp",
                     "compression": "quantSize",
-                    "quality": 30,
+                    "quality": 65,
                     "script": "",
                     "ext": ""
                 },
@@ -31994,11 +31996,11 @@
                         "name": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset"
                     },
                     {
-                        "maxWidth": 512,
-                        "maxHeight": 512,
+                        "maxWidth": 1024,
+                        "maxHeight": 1024,
                         "format": "webp",
                         "compression": "none",
-                        "quality": 30,
+                        "quality": 65,
                         "script": "",
                         "ext": "",
                         "name": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset"
@@ -32024,11 +32026,11 @@
                         "name": "Assets/Sources/Temp/Back2.png"
                     },
                     {
-                        "maxWidth": 512,
-                        "maxHeight": 512,
+                        "maxWidth": 1024,
+                        "maxHeight": 1024,
                         "format": "webp",
                         "compression": "none",
-                        "quality": 30,
+                        "quality": 65,
                         "script": "",
                         "ext": "",
                         "name": "Assets/Sources/Font/MANDATOR SDF.asset"
@@ -32044,11 +32046,11 @@
                         "name": "Assets/ALP8310_Assets/Nature Package - Forest Environment_/_Vegetation/Vegetation_Built-in/TreeCreator/_Models/ForestTree01Group_Textures/normal_specular.png"
                     },
                     {
-                        "maxWidth": 512,
-                        "maxHeight": 512,
+                        "maxWidth": 1024,
+                        "maxHeight": 1024,
                         "format": "webp",
                         "compression": "none",
-                        "quality": 30,
+                        "quality": 65,
                         "script": "",
                         "ext": "",
                         "name": "Assets/_Project/Font/MANDATOR SDF.asset"
@@ -32068,7 +32070,7 @@
                         "maxHeight": 256,
                         "format": "webp",
                         "compression": "quantSize",
-                        "quality": 40,
+                        "quality": 30,
                         "script": "",
                         "ext": "",
                         "name": "Assets/Urban buildings Pack 02/BackGrounds/Materials/Back-01.png"
@@ -32101,17 +32103,67 @@
                         "quality": 30,
                         "script": "",
                         "ext": "",
+                        "name": "Assets/Sources/Sprites/BackFrame.png"
+                    },
+                    {
+                        "maxWidth": 512,
+                        "maxHeight": 512,
+                        "format": "webp",
+                        "compression": "quantSize",
+                        "quality": 40,
+                        "script": "",
+                        "ext": "",
                         "name": "Assets/Urban buildings Pack 02/Textures/Trees-01.png"
                     },
                     {
-                        "maxWidth": 256,
-                        "maxHeight": 256,
+                        "maxWidth": 512,
+                        "maxHeight": 512,
+                        "format": "webp",
+                        "compression": "quantSize",
+                        "quality": 50,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/Urban buildings Pack 02/Textures/Grass-01.tga"
+                    },
+                    {
+                        "maxWidth": 1024,
+                        "maxHeight": 1024,
+                        "format": "webp",
+                        "compression": "quantSize",
+                        "quality": 50,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/Sources/Sprites/icons/NoName_1.png"
+                    },
+                    {
+                        "maxWidth": 1024,
+                        "maxHeight": 1024,
                         "format": "webp",
                         "compression": "quantSize",
                         "quality": 30,
                         "script": "",
                         "ext": "",
-                        "name": "Assets/Sources/Sprites/BackFrame.png"
+                        "name": "Assets/_Project/Materials/moto_hair_basecolor.tif"
+                    },
+                    {
+                        "maxWidth": 1024,
+                        "maxHeight": 1024,
+                        "format": "webp",
+                        "compression": "quantSize",
+                        "quality": 50,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/_Project/Models/bake_albedo.png"
+                    },
+                    {
+                        "maxWidth": 1024,
+                        "maxHeight": 1024,
+                        "format": "webp",
+                        "compression": "quantSize",
+                        "quality": 50,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/Urban buildings Pack 02/Textures/Atlas-1.psd"
                     }
                 ]
             },
@@ -32135,6 +32187,16 @@
                         "script": "",
                         "ext": "",
                         "name": "Assets/Sources/Sound/Fonovaya_muzyka_dinamichnaya_-_Na_video_(Gybka.com).mp3"
+                    },
+                    {
+                        "channels": 1,
+                        "startTime": "00:00.000",
+                        "endTime": "01:30.000",
+                        "lengthInSeconds": 90.0,
+                        "bitrate": 32,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/Sources/Sound/4f44c7f3383b8a2.mp3"
                     }
                 ]
             },
@@ -32166,8 +32228,16 @@
                 },
                 "overrides": [
                     {
-                        "halfPrecision": true,
+                        "halfPrecision": false,
                         "name": "Assets/Sources/Models/Eric.fbx"
+                    },
+                    {
+                        "halfPrecision": false,
+                        "name": "Assets/Toon_Soldiers/ToonSoldiers_Armies/models/ToonSoldiers_armies.FBX"
+                    },
+                    {
+                        "halfPrecision": true,
+                        "name": "Assets/_Project/Models/Viper_Rigged_Reduced (1).fbx"
                     }
                 ]
             },

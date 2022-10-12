@@ -8,14 +8,10 @@ public class ChooseHandler : MonoBehaviour
 {
     private const int CirclesCount = 20;
 
-    [SerializeField] private CinemachineBrain _brain;
+    [SerializeField] private int _currentCharacter;
     [SerializeField] private SoundHandler _soundHandler;
-    [SerializeField] private CinemachineBlenderSettings _ericSettings;
-    [SerializeField] private CinemachineBlenderSettings _viperSettings;
-    [SerializeField] private GameObject _ericScene;
-    [SerializeField] private Image _ericSceneBackground;
-    [SerializeField] private GameObject _viperScene;
-    [SerializeField] private Image _viperSceneBackground;
+    [SerializeField] private GameObject _scene;
+    [SerializeField] private Image _sceneBackground;
     [SerializeField] private Button _chooseButton;
     [SerializeField] private List<GameObject> _characters;
     [SerializeField] private Image _frame;
@@ -46,7 +42,7 @@ public class ChooseHandler : MonoBehaviour
     {
         int currentCard;
         WaitForSeconds firstWaiter = new WaitForSeconds(0.2f);
-        WaitForSecondsRealtime secondWaiter = new WaitForSecondsRealtime(1f);
+        WaitForSecondsRealtime secondWaiter = new WaitForSecondsRealtime(0.8f);
         int currentCircle = 1;
         currentCard = Random.Range(0, _characters.Count);
 
@@ -58,31 +54,15 @@ public class ChooseHandler : MonoBehaviour
             if (currentCircle < CirclesCount - 1)
                 currentCard = Random.Range(0, _characters.Count);
             else if (currentCircle == CirclesCount - 1)
-                currentCard = Random.Range(0, 2);
+                currentCard = _currentCharacter;
 
             yield return firstWaiter;
         }
 
         Time.timeScale = 0;
 
-        switch (currentCard)
-        {
-            case 0:
-                _brain.m_CustomBlends = _ericSettings;
-                _ericSceneBackground.gameObject.SetActive(true);
-                _ericScene.SetActive(true);
-                Destroy(_viperScene);
-                break;
-            case 1:
-                _brain.m_CustomBlends = _viperSettings;
-                _viperSceneBackground.gameObject.SetActive(true);
-                _viperScene.SetActive(true);
-                Destroy(_ericScene);
-                break;
-            default:
-                break;
-        }
-
+        _sceneBackground.gameObject.SetActive(true);
+        _scene.SetActive(true);
         yield return secondWaiter;
         _soundHandler.PlaySound();
         gameObject.SetActive(false);
